@@ -4,7 +4,7 @@ package shardmaster
 // Shardmaster clerk.
 //
 
-import "../labrpc"
+import "labs-2020/src/labrpc"
 import "time"
 import "crypto/rand"
 import "math/big"
